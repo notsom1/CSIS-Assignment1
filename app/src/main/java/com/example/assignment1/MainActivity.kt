@@ -1,3 +1,5 @@
+//CSIS401 Assignment1
+//Ahmad Aldulaie S00052749
 package com.example.assignment1
 
 import androidx.appcompat.app.AppCompatActivity
