@@ -61,6 +61,7 @@
         android:ems="10"
         android:hint="Number of Prints"
         android:inputType="number"
+        android:textAlignment="center"
         android:textColor="@color/purple_500"
         android:textColorHint="@color/purple_200"
         app:layout_constraintEnd_toEndOf="parent"
